@@ -1,0 +1,4 @@
+class AppSecrets{
+  static final url="https://fhnjffhbenbfwscooyvi.supabase.co";
+  static final annonKey='eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJzdXBhYmFzZSIsInJlZiI6ImZobmpmZmhiZW5iZndzY29veXZpIiwicm9sZSI6ImFub24iLCJpYXQiOjE3MTk0NjYxNTQsImV4cCI6MjAzNTA0MjE1NH0.mHZ1tq_-YONcvvjkPr41FDb4XwMIAK1wq29Q5GWqVUY';
+}
